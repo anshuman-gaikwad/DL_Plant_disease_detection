@@ -1,0 +1,7 @@
+tensorflow==2.17.0
+
+ gradio==5.38.0 
+
+numpy 
+
+matplotlib
